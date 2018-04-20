@@ -1,4 +1,4 @@
-﻿function getLocalStorageVar(key) {
+function getLocalStorageVar(key) {
     if (typeof(localStorage[key]) == 'undefined' || localStorage[key] == null) {
         return '';
     } else {
@@ -44,6 +44,7 @@ var _cdn_url = 'https://s0.zkcserv.com/fufu/www/';
 var _redis_url = 'https://s0.zkcserv.com';
 var _login_debug_url = '';
 */
+
 function downloadError(){
 }
 

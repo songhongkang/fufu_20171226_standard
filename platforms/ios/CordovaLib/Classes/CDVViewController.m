@@ -634,6 +634,10 @@
 
     [self.view addSubview:self.webView];
     [self.view sendSubviewToBack:self.webView];
+    
+    if(@available(iOS 11.0, *)) {
+        self.webView.scrollView.contentInsetAdjustmentBehavior =   UIScrollViewContentInsetAdjustmentNever;
+    }
 }
 
 - (void)didReceiveMemoryWarning
