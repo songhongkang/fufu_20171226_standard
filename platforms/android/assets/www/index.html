@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta name="flexible" content="initial-dpr=2" />
+    <script src="js/flexible.js"></script>
+    <meta name = "format-detection" content = "telephone=no">
+    <title>服服</title>
+
+	<script>
+    function loadRsScript(fileType,fileUrl){
+      var head= document.getElementsByTagName('head')[0];
+      var obj;
+      if(fileType == 'js'){
+        obj = document.createElement('script');
+        obj.type= 'text/javascript';
+        obj.src=fileUrl;
+      }else{
+        obj = document.createElement('link');
+        obj.rel='stylesheet';
+        obj.href=fileUrl;
+      }
+      head.appendChild(obj);
+    }
+
+    function createjscssfile(filename, filetype){
+      if (filetype=="js"){
+        var fileref=document.createElement('script')
+        fileref.setAttribute("type","text/javascript")
+        fileref.setAttribute("src", filename+'?dt='+new Date().getTime())
+      }
+      else if (filetype=="css"){
+        var fileref=document.createElement("link")
+        fileref.setAttribute("rel", "stylesheet")
+        fileref.setAttribute("type", "text/css")
+        fileref.setAttribute("href", filename)
+      }
+      return fileref
+    }
+
+    function replacejscssfile(oldfilename, newfilename, filetype){
+      var targetelement=(filetype=="js")? "script" : (filetype=="css")? "link" : "none";
+      var targetattr=(filetype=="js")? "src" : (filetype=="css")? "href" : "none";
+      var allsuspects=document.getElementsByTagName(targetelement);
+      for (var i=allsuspects.length; i>=0; i--){
+        if (allsuspects[i] && allsuspects[i].getAttribute(targetattr)!=null && allsuspects[i].getAttribute(targetattr).indexOf(oldfilename)!=-1){
+          var newelement=createjscssfile(newfilename, filetype);
+          allsuspects[i].parentNode.replaceChild(newelement, allsuspects[i]);
+        }
+      }
+    }
+
+    var current_app_version = '3.1';
+	var debug_mode = true;
+    var local_resource = '';
+     if(typeof(localStorage._resource_version)=='undefined'||localStorage._resource_version==''||localStorage._resource_version==null){
+      localStorage._resource_version = '3.1.001';
+    }
+
+    if(typeof(localStorage.local_resource)!='undefined'&&localStorage.local_resource!=''&&localStorage.local_resource!=null){
+      local_resource = localStorage.local_resource;
+    }
+    
+    if(localStorage.local_app_version!=current_app_version){
+        local_resource = '';
+        localStorage.local_resource = '';
+        localStorage.local_app_version=current_app_version;
+    }
+	</script>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <script src="lib/ionic/js/ionic.bundle.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/highcharts.js"></script>
+    <script type="text/javascript" src="js/TweenMax.min.js"></script>
+    <script src="cordova.js"></script>
+    <!-- 动态加载与业务模块相关JS/CSS--->
+
+    <script>
+		var  _load_e_flag = 0;
+        window.onerror = function(message, url, lineNumber) {
+            document.addEventListener("deviceready", function(){
+                                      if(typeof(localStorage._remote_server_addr)!='undefined'&&localStorage._remote_server_addr!=''){
+                                      $('.navigation_bar').hide();
+                                      if(_load_e_flag==0){
+                                      alert('服服有新版本，请点击确定按钮开始更新');
+                                      _load_e_flag=1;
+                                      }
+                                      navigator.splashscreen.show();
+                                      reDownloadRs(window.localStorage['_remote_server_addr']);
+                                      }
+                                      }, false);
+                                      return true;
+        }
+		document.write("<script type='text/javascript' src='"+local_resource+"js/ion-tree-list.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<script type='text/javascript' src='"+local_resource+"js/zkclib.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<script type='text/javascript' src='"+local_resource+"js/app.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<script type='text/javascript' src='"+local_resource+"js/controllers.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<script type='text/javascript' src='"+local_resource+"js/services.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<script type='text/javascript' src='"+local_resource+"js/filters.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<script type='text/javascript' src='"+local_resource+"js/directives.js?dt=" + new Date().getTime() + "'><\/script>");
+		document.write("<link rel='stylesheet' href='"+local_resource+"css/style.css?dt=" + new Date().getTime() + "'>");
+    </script>
+
+  </head>
+  <body ng-app="citymobi" style="background-color:white;" class="platform-ios platform-cordova platform-webview">
+    <ion-nav-bar class="navigation_bar">
+      <ion-nav-back-button class="button-clear button-light button-icon ion-ios-arrow-left">
+      </ion-nav-back-button>
+    </ion-nav-bar>
+	  <ion-nav-view>
+    </ion-nav-view>
+
+  </body>
+</html>

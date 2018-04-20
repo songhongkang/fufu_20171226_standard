@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+           id="cordova-plugin-shake"
+      version="1.0">
+    <name>Shake</name>
+    <description>Cordova Shake Location Plugin</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,location,policy</keywords>
+
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+            <feature name="Shake" >
+                <param name="ios-package" value="CDVShake"/>
+            </feature>
+            <feature name="Location" >
+                <param name="ios-package" value="CDVLocation"/>
+            </feature>
+        </config-file>
+
+    <js-module src="www/Shake.js" name="Shake">
+        <clobbers target="getShake" />
+    </js-module>
+    
+    <js-module src="www/Location.js" name="Location">
+        <clobbers target="getLocation" />
+    </js-module>
+    
+    <header-file src="src/ios/CDVShake.h" />
+    <source-file src="src/ios/CDVShake.m" />
+    <header-file src="src/ios/CDVLocation.h" />
+    <source-file src="src/ios/CDVLocation.m" />
+    
+<!--    <source-file src="src/raw/shak.mp3" target-dir="Resources" />-->
+    </platform>
+	
+    
+    <!-- android -->
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="Shake">
+                <param name="android-package" value="org.apache.cordova.shake.ShakeLocation" />
+            </feature>
+            <feature name="Location">
+                <param name="android-package" value="org.apache.cordova.shake.GetLocation" />
+            </feature>
+        </config-file>
+        
+        <config-file target="AndroidManifest.xml" parent="/manifest/application">
+           
+                <meta-data android:name="com.amap.api.v2.apikey" android:value="b0f5f09210eec75c12901d2419cba23b" />
+                <service android:name="com.amap.api.location.APSService" />
+    
+        </config-file>
+        
+        
+        <config-file target="AndroidManifest.xml" parent="/*">
+            <uses-permission android:name="android.permission.INTERNET" />
+            <uses-permission android:name="android.permission.INTERNET" />
+            <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+            <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+            <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+            <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+            <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+            //定位包、导航包需要的额外权限（注：基础权限也需要）
+            <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+            <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+            <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+            
+        </config-file>
+        
+        <source-file src="src/android/ShakeLocation.java" target-dir="src/org/apache/cordova/shake" />
+        <source-file src="src/android/Constants.java" target-dir="src/org/apache/cordova/shake" />
+        <source-file src="src/android/GetLocation.java" target-dir="src/org/apache/cordova/shake" />
+        <source-file src="src/android/AMap_Location_V2.4.1_20160414.jar" target-dir="libs" framework="true"/>
+        
+         <source-file src="res/raw/shak.mp3" target-dir="res/raw" />
+       
+       <js-module src="www/Shake.js" name="Shake">
+           <clobbers target="getShake" />
+       </js-module>
+       
+       <js-module src="www/Location.js" name="Location">
+           <clobbers target="getLocation" />
+       </js-module>
+        
+    </platform>
+
+
+</plugin>

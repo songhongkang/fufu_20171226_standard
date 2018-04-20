@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ImageBrowseViewCell" id="gTV-IL-0wX" customClass="ImageBrowseViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="314" height="322"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="314" height="322"/>
+                <subviews>
+                    <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Efz-KV-tE4" customClass="FLImageShowScrollView">
+                        <rect key="frame" x="0.0" y="0.0" width="314" height="322"/>
+                    </scrollView>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Efz-KV-tE4" secondAttribute="trailing" id="6iz-Yd-jkw"/>
+                <constraint firstItem="Efz-KV-tE4" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="9HL-Vw-C1T"/>
+                <constraint firstAttribute="bottom" secondItem="Efz-KV-tE4" secondAttribute="bottom" id="TiH-AS-11u"/>
+                <constraint firstItem="Efz-KV-tE4" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="hVW-CT-Ess"/>
+            </constraints>
+            <size key="customSize" width="314" height="322"/>
+            <connections>
+                <outlet property="imageBrowseScrollView" destination="Efz-KV-tE4" id="zxq-Bz-huf"/>
+            </connections>
+            <point key="canvasLocation" x="322" y="269"/>
+        </collectionViewCell>
+    </objects>
+</document>

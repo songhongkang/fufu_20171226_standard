@@ -1,0 +1,162 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "framework": {
+                "parents": {
+                    "libz.dylib": [],
+                    "CFNetwork.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "CoreFoundation.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "CoreTelephony.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "SystemConfiguration.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "CoreGraphics.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "Foundation.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "UIKit.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "Security.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "libz.tbd": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "AdSupport.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "UserNotifications.framework": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ],
+                    "libresolv.tbd": [
+                        {
+                            "xml": "true",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"JPushPlugin\"><param name=\"ios-package\" value=\"JPushPlugin\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "*JPushConfig.plist": {
+                "parents": {
+                    "Appkey": [
+                        {
+                            "xml": "<string>d5a8e2d4df3a17b04e0afcd8</string>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.borismus.webintent": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.citymobi.fufu"
+        },
+        "Umeng": {
+            "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+        },
+        "jpush-phonegap-plugin": {
+            "APP_KEY": "d5a8e2d4df3a17b04e0afcd8",
+            "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+        }
+    },
+    "dependent_plugins": {}
+}
