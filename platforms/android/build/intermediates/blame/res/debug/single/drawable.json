@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/launcher_icon.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/image_check_style.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/image_check_style.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/PullToRefresh/unspecified/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/ic_warning.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/ic_warning.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/color_picker_border.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/color_picker_border.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/address.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/address.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/dropdown_popup_background.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/dropdown_popup_background.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/friends_sends_pictures_no.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/friends_sends_pictures_no.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/but_left_bg.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/but_left_bg.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/dot_selector.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/dot_selector.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/ic_menu_share_holo_light.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/seleced.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/seleced.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/bubble.9.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/bubble.9.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/dropdown_popup_background_up.9.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/searchbar.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/searchbar.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/verify_checkmark.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/verify_checkmark.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/albums_icon_bg.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/albums_icon_bg.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/ondemand_overlay.9.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/ondemand_overlay.9.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/search_address.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/search_address.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/textcolor_selectorcolor.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/textcolor_selectorcolor.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/textcorner.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/textcorner.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/left.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/left.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/color_button_background.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/color_button_background.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/pictures_select_icon.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/pictures_select_icon.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/share_via_barcode.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/share_via_barcode.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/but_bg.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/but_bg.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/PullToRefresh/unspecified/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/jpush_richpush_btn_selector.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/albums_bg.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/albums_bg.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/dialog_corner_view.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/dialog_corner_view.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/dropdown_popup_background_down.9.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/bubble_arrow_up.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/bubble_arrow_up.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/right.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/back_arrow.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/back_arrow.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/ic_search.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/ic_search.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/jpush_richpush_progressbar.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/selected.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/selected.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/color_picker_advanced_select_handle.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/drawable/color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/but_right_bg.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/but_right_bg.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/edittext_bg.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/selector.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/shopper_icon.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/shopper_icon.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/address_small.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/address_small.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable/dialog_bg.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/drawable/dialog_bg.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed May 17 10:03:31 CST 2017
+base.0=/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

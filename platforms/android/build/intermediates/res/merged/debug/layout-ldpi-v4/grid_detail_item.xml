@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/group_title"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:layout_below="@id/framelayout"
+        android:layout_centerHorizontal="true"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="Camera"
+        android:background="#d10d0d"
+        android:textSize="16sp" />
+
+</RelativeLayout>

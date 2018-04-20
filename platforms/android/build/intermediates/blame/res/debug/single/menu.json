@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/menu/history.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/menu/select_action_menu.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/menu/select_action_menu.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/menu/capture.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/action_toolbar.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/layout-ldpi/action_toolbar.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/grid_detail_item.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/layout-ldpi/grid_detail_item.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/capture.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/layout-ldpi/capture.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/action_bar_title.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/layout-ldpi/action_bar_title.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/activity_show_map.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/layout-ldpi/activity_show_map.xml"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/layout-ldpi-v4/item_list.xml",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/layout-ldpi/item_list.xml"
+    }
+]

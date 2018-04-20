@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.oginotihiro/cropview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="012d129cae2c8af09c0e990eb390cf137ee543ad">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/com.oginotihiro-cropview-1.0.0_31b60553bd51242041b6e1fd120f93f35b95319d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/jcore-android_v1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c49fbb60c08a0d71decd2f092da4677fb7872f04">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/jcore-android_v1.1.0_6f44c0f507ebb2279d35694f3f6d494e5f2f98b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_1f8a1da0c775d8bf9aedef712eee07267295c880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/com.google.zxing.client.android.captureactivity.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="daca75b7de34e1ca229682f2cd54b54e1c324be6">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/com.google.zxing.client.android.captureactivity_fb325720927e24d433da2d49ebf76fcf5777f433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/umeng-analytics-v6.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8023cd0713d5cd5bd212b0b6053fec03d133f9d1">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/umeng-analytics-v6.0.0_613f752b3155ce853d3befbe631e0157f6e1640f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_54b9a12e65bcf623666a7c3d9fa5bd1d1bf97543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/AMap_Location_V2.4.1_20160414.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2a48661c11bfafb2dea576904958420c2ad9e06">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/AMap_Location_V2.4.1_20160414_ea15933516ac887484d158c5bd9ce63b168bfa6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/jpush-android_v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e0e2966df7e5f6062849be632a5c7d62d3a38fa">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/jpush-android_v3.0.1_080084377a0d85d3634ced06700552bcc5b8ae41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0bb5cf057e5c8115c4d648c77369d965a4ecc961">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_65ed545d57142db708baa00781ba619097e25be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97a83e6397160ac73bcea710022b1048437e5771">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/org.xwalk-xwalk_core_library-15.44.384.13_85109d112b6f2aebbf9503d2bb357bfd43c6dfbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/PullToRefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bb1d977701785cdf0ef829da2936880f12e92c94">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/android-PullToRefresh-unspecified_086b085a9fc44dc183c7d643e1bfe67eb26b83d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/AMap_2DMap_V2.8.1_20160202_c5e8dc717abfcde8ede9b1e4727153565aa7906f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c36cce047caef2dd8d6c3f584b17478f08527de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/glide-3.7.0_b05d26bbe47348a0473b83fc9873fcf9a2a099d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_9283118fc6cb5869f381f0c7ab6a03ce72c13c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/alipaySdk-20161222.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="341e981a9f87882cc427113db58c7a01f6b5dde4">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/alipaySdk-20161222_557122121e7be3f1f8b09c19e6cdbf690ec93bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/library-1.0.19_60fbf0ae2453a906cdb451946f9f5decd9c9db76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/libs/AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/AMap_Search_V3.2.1_20160308_be22ad937712ef879462dbadf3f97bf9542ebdf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/com.github.zhaokaiqiang.klog/library/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="beb952d2afcbaa163aecd988a37d1e6fcf478b3a">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/com.github.zhaokaiqiang.klog-library-1.6.0_a8d69ef44d37f6c68506ffbc97a04f0697e7c00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shangzh/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes.photoview/library/1.2.2/82eda228c92c1aab3c0c8626497f13baf249cdb4/library-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82eda228c92c1aab3c0c8626497f13baf249cdb4">
+        <dex dex="/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/pre-dexed/debug/library-1.2.2_3cccc5680081afd58a833e1792b141b0d908e04c.jar" />
+    </item>
+
+</items>

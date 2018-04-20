@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/PullToRefresh/unspecified/res/drawable-hdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/PullToRefresh/unspecified/res/drawable-hdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/android/PullToRefresh/unspecified/res/drawable-hdpi-v4/indicator_arrow.png"
+    }
+]

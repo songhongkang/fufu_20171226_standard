@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/messaging_api.js",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/messaging_api.js"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/contacts_api.js",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/contacts_api.js"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/icudtl.dat",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/icudtl.dat"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/shak.mp3",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/res/raw/shak.mp3"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/launch_screen_api.js",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/launch_screen_api.js"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/xwalk.pak",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/xwalk.pak"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/device_capabilities_api.js",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/device_capabilities_api.js"
+    },
+    {
+        "merged": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/res/merged/debug/raw/presentation_api.js",
+        "source": "/Users/shangzh/Downloads/fufu-standardPackage_3.1_0503/platforms/android/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/15.44.384.13/res/raw/presentation_api.js"
+    }
+]
